@@ -1,1 +1,5 @@
 sooome
+
+Some more
+Новый добавленный текст
+Final line
